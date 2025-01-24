@@ -1,0 +1,8 @@
+streamlit
+google-api-python-client
+pdfplumber
+google-auth-oauthlib
+PyPDF2
+python-docx
+openai
+python-dotenv
